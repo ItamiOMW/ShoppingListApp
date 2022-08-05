@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/ShoppingListApp/app/src/main/res/layout-land/activity_main.xml" value="0.26970227670753066" />
+        <entry key="..\:/AndroidProjects/ShoppingListApp/app/src/main/res/layout/activity_main.xml" value="0.32083333333333336" />
+        <entry key="..\:/AndroidProjects/ShoppingListApp/app/src/main/res/layout/activity_shop_item.xml" value="0.32083333333333336" />
+        <entry key="..\:/AndroidProjects/ShoppingListApp/app/src/main/res/layout/fragment_shop_item.xml" value="0.32083333333333336" />
+        <entry key="..\:/AndroidProjects/ShoppingListApp/app/src/main/res/layout/item_shop_disabled.xml" value="0.32083333333333336" />
+        <entry key="..\:/AndroidProjects/ShoppingListApp/app/src/main/res/layout/item_shop_enabled.xml" value="0.32083333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
